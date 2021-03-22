@@ -94,7 +94,6 @@ module.exports = (() => {
         start() {
             this.interval = setInterval(() => {
                 const krisp = this.findButtonByAriaLabel('Noise Suppression powered by Krisp');
-                console.log(this.button);
                 if (!this.button && krisp) {
                     this.afk = false;
                     this.button = document.createElement('button');

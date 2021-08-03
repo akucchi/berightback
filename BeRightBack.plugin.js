@@ -1,7 +1,7 @@
 /**
  * @name BeRightBack
- * @version 0.1.0
- * @authorLink https://github.com/akucchi
+ * @version 0.1.1
+ * @authorLink https://github.com/akuvfx
  * @website https://github.com/akucchi/berightback
  * @source https://raw.githubusercontent.com/akucchi/berightback/master/BeRightBack.plugin.js
  * @updateUrl https://raw.githubusercontent.com/akucchi/berightback/master/BeRightBack.plugin.js
